@@ -3,7 +3,6 @@ and parents who want insights into a child's emotional state through their art.
 
 #Features
 Emotion Detection: Uses AI to analyze children's drawings and identify emotions such as happiness, sadness, fear, and more.
-User-Friendly: Accessible for psychologists and parents to gain insights into a child's emotions effortlessly.
 Categorized Results: Outputs results with confidence scores for each detected emotion.
 #Technologies Used
 Programming Language: Python
